@@ -50,6 +50,12 @@
     component: './TableList',
   },
   {
+    name: 'chart',
+    icon: 'table',
+    path: '/chart',
+    component: './Test/Chart',
+  },
+  {
     path: '/',
     redirect: '/welcome',
   },
